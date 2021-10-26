@@ -1,6 +1,7 @@
 # DE-CAFSA
 DE-CAFSA: Chaotic Artificial Fish Swarm Algorithm Based on Multiple Population Difference Evolution
-This document mainly includes various experimental details in the process of improving the DE-CAFSA algorithm.
+
+This document mainly includes various experimental details in the research process of DE-CAFSA algorithm.
 
 The file includes the following parts:
 * Original AFSA  M-TSP
